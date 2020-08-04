@@ -1,0 +1,36 @@
+12,john,7,routine1,1,4,Floor Exercise(male),2:30pm,michal
+13,Alica,4,routine2,1,8,Floor Exercise(female),3:30pm,Denver
+14,boshap,9,routine3,1,7,Parallel Bars,4:00pm,Amy
+15,Raqual,5,routine1,2,10,Vault(female),11:00am,Moskow
+16,Hobs,9,routine2,1,9,High Bar,10:30am,shaw
+17,Alison,7,routine4,1,8,Balance Beam,1130am,Shaw
+18,tokyo,8,routine2,1,10,Uneven Bars,09:00am,Michel
+19,Rio,3,routine1,1,6,Still Rings,8:30am,Denver
+20,hazel,7,routine1,1,2,Pommel horse,07:00am,Dom
+21,julie,7,routine2,1,5,Pommel horse,07:00am,Dom
+22,Amanda,7,routine2,2,5,vault(female),11:00am,Amy
+23,Amber,6,routine1,1,8,Floor Exercise(Female),03:30pm,Denver
+24,Harry,7,routine3,2,3,vault(male),08:00am,Jack
+25,Leo,4,routine8,1,2,Floor Exercise(male),02:00pm,jack
+26,Jacob,10,routine2,2,4,vault(male),08:00am,jack
+27,Oliver,2,routine1,1,2,Pommel horse,07:00am,Dom
+28,Jack,6,routine2,1,4,High Bar,10:30am,shaw
+29,lexas,8,routine2,1,4,Uneven Bars,09:00am,Michel
+12,john,7,routine1,1,4,Parallel Bars,4:00pm,Amy
+13,Alica,4,routine2,2,8,vault(female),11:00am,Moskow
+14,boshap,9,routine3,1,7,Floor Exercise(male),2:30pm,michal
+15,Raqual,5,routine1,1,10,Pommel horse,07:00am,Michel
+16,Hobs,9,routine2,1,9,Balance Beam,11:30am,Shaw
+17,Alison,7,routine4,1,8,High bars,10:30am,shaw
+18,tokyo,8,routine2,1,10,Balance Beam,09:00am,Michel
+19,Rio,3,routine1,6,2,vault(male),08:00am,Jack
+20,hazel,7,routine1,1,2,Uneven Bars,09:00am,Michel
+21,julie,7,routine2,1,5,Floor exercise(female),3:30pm,Denver
+22,Amanda,7,routine2,1,5,floor exercise(female),03:30pm,Denver
+23,Amber,6,routine1,2,8,vault(Female),11:00am,Amy
+24,Harry,7,routine3,1,3,Still Rings,8:30am,Denver
+25,Leo,4,routine8,2,2,vault(male),08:00am,jack
+26,Jacob,10,routine2,1,4,floor exercise(male),02:00pm,jack
+27,Oliver,2,routine1,1,2,High Bar,10:30am,shaw
+28,Jack,6,routine2,1,4,Pommel horse,07:00am,Dom
+29,lexas,8,routine2,1,4,Pommel horse,07:00am,Michel

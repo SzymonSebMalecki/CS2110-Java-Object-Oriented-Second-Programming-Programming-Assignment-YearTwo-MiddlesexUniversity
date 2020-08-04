@@ -1,0 +1,10 @@
+Bob's builders , Finchley Central ,Brick laying.scafolding,13,300 ,available 24/7
+Plaster Magic , Oakwood  , Plastering. Rendering. Fascias. Painting and Decorating ,20,400 ,available 24/7
+Bricks and Blocks , Bounds Green , Brick laying. Walls. Garage roofs ,29 ,300 ,available 24/7
+Decorating Delight , Highgate , Wall papering. Plastering. Painting. Decorating ,30 ,200 ,available 24/7
+Gorgeous Gardens , Hendon , Gardening. Landscaping. Composting. Clearance ,81 ,300 ,available 24/7
+Motor Madness , Highgate , General motor maintenance. Engine tuning. Breakdowns. MOT Testing ,43 ,300 ,available 24/7
+Motor bodies , Oakwood , Crash recovery. Bodywork. Respraying ,10 ,300 ,available 24/7
+Honest Plumbing Ltd. , Willesden Green , Plumbing. Water leaks. Pipework ,12 ,200 ,available 24/7
+Tim's Tilers , Totteridge , Roofing. Tiling. Stack alignment ,13 ,300 ,available 24/7
+Enfield Engines , Enfield , Engine tuning. General motor maintenance. Breakdown assistance ,13 ,300 ,available 24/7
