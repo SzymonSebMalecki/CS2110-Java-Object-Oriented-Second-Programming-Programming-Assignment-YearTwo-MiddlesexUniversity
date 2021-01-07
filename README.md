@@ -1,4 +1,5 @@
-#CS2110-Java-Object-Oriented-Programming-Programming-Assignment #SzymonSebMalecki #MiddlesexUniversity Copyright (c) 2020 Szymon Sebastian Malecki, Github Username: SzymonSebMalecki 
+#CS2110-Java-Object-Oriented-Programming-Programming-Assignment #SzymonSebMalecki #MiddlesexUniversity 
+Copyright (c) 2020 Szymon Sebastian Malecki, Github Username: SzymonSebMalecki 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
